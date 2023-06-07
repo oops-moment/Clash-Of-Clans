@@ -1,11 +1,7 @@
-# Dass Assignment - 3
+# CLASH OF CLANS
 
-### PRISHA , 2021101075
-
-# Assignment 3.1
-
-- Everything mentioned in the assignment has been implemented.
-- **Bonus** :
+### PRISHA 
+- **EXTRA FEATURES**
     - King’s Leviathan Axe has also been implemented.
     - Dragon Character has been added, it can fly over walls.
     - Queen's Eagle Arrow has been added.
